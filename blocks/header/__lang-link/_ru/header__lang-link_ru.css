@@ -1,0 +1,13 @@
+.header__lang-link_ru {
+    width: 30px;
+    padding-right: 18px;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 425px) {
+    .header__lang-link_ru {
+        max-width: 22px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
