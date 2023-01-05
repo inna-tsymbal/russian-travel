@@ -27,5 +27,6 @@
 - [Мой ТГ](https://t.me/tsymbal_inna1) 
 
 ### Ссылка на GitHub Pages
+https://inna-tsymbal.github.io/russian-travel/
 
 
