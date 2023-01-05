@@ -1,14 +1,14 @@
-.footer__links {
+.footer__links ul {
+    max-width: 1184px;
     margin: 0;
     padding: 0;
     list-style-type: none;
     display: flex;
     gap: 18px;
-    max-width: 1184px;
 }
 
 @media screen and (max-width: 425px) {
-    .footer__links {
+    .footer__links ul {
         max-width: 186px;
         flex-direction: column;
         gap: 32px;

@@ -2,20 +2,14 @@
     max-width: 456px;
     margin: 0;
     padding-bottom: 12px;
-    font-family: 'Inter-Regular', 'Arial', sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 12px;
     letter-spacing: 2px;
-    color: #AAAAAA;
-    padding-bottom: 12px;
-}
-
-@media screen and (max-width: 1024px) {
-    .place__url-heading {
-        max-width: 456px;
-    }
+    color: #aaa;
+    text-transform: uppercase;
 }
 
 @media screen and (max-width: 768px) {

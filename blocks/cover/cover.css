@@ -1,6 +1,5 @@
 .cover {
     max-width: 1184px;
-    width: 100%;
     min-height: 740px;
     height: 100%;
     margin: 0 auto;
@@ -8,6 +7,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 @media screen and (max-width: 1024px) {

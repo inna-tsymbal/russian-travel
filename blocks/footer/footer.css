@@ -10,8 +10,6 @@
     .footer {
         max-width: 928px;
         min-height: 18px;
-        padding: 92px 48px 24px;
-        display: flex;
         gap: 277px;
     }
 }
@@ -20,8 +18,9 @@
     .footer {
         max-width: 720px;
         min-height: 18px;
-        padding: 88px 24px 24px;
-        display: flex;
+        padding-top: 88px;
+        padding-left: 24px;
+        padding-right: 24px;
         gap: 69px;
     }
 }
@@ -30,8 +29,9 @@
     .footer {
         max-width: 186px;
         min-height: 310px;
-        padding: 64px 118px 24px 16px;
-        display: flex;
+        padding-top: 64px;
+        padding-left: 16px;
+        padding-right: 118px;
         flex-direction: column;
         gap: 48px;
     }

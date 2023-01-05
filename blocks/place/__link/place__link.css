@@ -1,18 +1,12 @@
 .place__link {
     max-width: 456px;
-    font-family: 'Inter-Regular', 'Arial', sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
-    color: #FFFFFF;
-}
-
-@media screen and (max-width: 1024px) {
-    .place__link {
-        max-width: 456px;
-    }
+    color: #fff;
 }
 
 @media screen and (max-width: 768px) {
